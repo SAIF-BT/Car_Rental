@@ -1,14 +1,24 @@
 {
-    "cars": [],
+    "cars": [
+        {
+            "brand": "SUZUKI",
+            "model": "2022",
+            "licensePlate": "ABC-3455",
+            "mileage": 3000,
+            "rent": 500,
+            "available": true,
+            "timesRented": 1
+        }
+    ],
     "customers": [
         {
             "userName": "Saifullah",
-            "password": "333",
+            "password": "4444",
             "cnic": "43204-9968436-3",
             "phone": "03415578818",
             "rented": false,
             "rentedCar": null,
-            "moneySpent": 0
+            "moneySpent": 500
         }
     ]
 }
