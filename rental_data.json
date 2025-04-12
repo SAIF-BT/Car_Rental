@@ -1,0 +1,14 @@
+{
+    "cars": [],
+    "customers": [
+        {
+            "userName": "Saifullah",
+            "password": "333",
+            "cnic": "43204-9968436-3",
+            "phone": "03415578818",
+            "rented": false,
+            "rentedCar": null,
+            "moneySpent": 0
+        }
+    ]
+}
